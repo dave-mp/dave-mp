@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Mendoza (@dave-mp)
-- 👀 I’m interested in all kinds of tech
-- 🌱 I’m currently learning Python and Ruby
+- 👀 I’m interested in all kinds of tech and philosophy 
+- 🌱 I’m currently learning Artificial Intelligence 
 - 📫 How to reach me: @davemp__ on Twitter
 
 <!---
